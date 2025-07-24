@@ -1,7 +1,7 @@
 # STACPro
 
 A high-efficiency tool for protein structure-based clustering and phylogenetic tree construction, leveraging USalign for accurate structural alignment. Designed to streamline clustering analysis of both predicted and experimental protein structures, supporting reliable evolutionary tree inference for protein function and evolution studies.
-
+<img width="1133" height="851" alt="cluster" src="https://github.com/user-attachments/assets/a7fabf0f-7c45-4617-9e68-57ec35c32950" />
 
 ## Overview
 STACPro automates protein structural clustering through **USalign-based pairwise similarity calculation** and phylogenetic tree construction. It focuses on simplicity and accuracy, using standard structural alignment metrics to generate reliable clustering results, suitable for both small and large-scale protein structure datasets.
